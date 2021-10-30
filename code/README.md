@@ -18,3 +18,9 @@
 - `convert2hist.py`: script containing helper functions that convert word2vec models to formats that are used in `histwords` project (https://nlp.stanford.edu/projects/histwords/)
 - `gensim_word2vec_procrustes_align_20201205.py`: to perform alignment
 
+### Visualizatioin
+
+- this directory is forked from the `histwords` project, and then modified.
+ To obtain the graphs, run `python2 viz/scripts/hai_closest_over_time_with_anns.py algo`.
+
+
